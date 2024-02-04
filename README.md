@@ -45,6 +45,7 @@ This repository contains the source code and instructions for setting up a ChatG
 
 - Adjust `maxTokens` and `temperature` in the script for different response lengths and variability.
 - Modify the `streamName` variable to change which Zulip stream your bot listens to.
+- Read our blog for more detailed instructions: https://blog.netrva.com/building-a-chatgpt-ai-chatbot-for-zulip-with-google-apps-script-a-step-by-step-guide
 
 ## Contributing
 
